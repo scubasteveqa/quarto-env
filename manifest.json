@@ -3,7 +3,7 @@
   "locale": "C",
   "platform": "4.4.3",
   "metadata": {
-    "appmode": "quarto",
+    "appmode": "shiny",
     "primary_rmd": "env.qmd",
     "primary_html": null,
     "content_category": null,
